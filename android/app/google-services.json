@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "560333948071",
+    "project_id": "cryptonian-8d35a",
+    "storage_bucket": "cryptonian-8d35a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560333948071:android:1d975cf874eb7812594782",
+        "android_client_info": {
+          "package_name": "com.example.cryptonian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560333948071-669s3fk2l0953asr6l55ecu339bl578n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANfZwQeErIbNA8N1WhIKKzNrfd0mcUR2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560333948071-669s3fk2l0953asr6l55ecu339bl578n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
